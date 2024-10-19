@@ -2,7 +2,7 @@
 #!pip install kaggle
 import kaggle
 
-!kaggle datasets download ankitbansal06/retail-orders -f orders.csv
+!kaggle datasets download saiajeethreddygade/ordersdetails -f orders.csv
 
 
 #extract file from zip file
